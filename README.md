@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on Gen AI game<br>👯 I’m looking to collaborate on startups<br>🤝 I’m looking for help with AI/ML<br>🌱 I’m currently learning BlockChain & Web3<br>💬 Ask me about Anything<br>⚡ May the force be with you
+🔭 Currently working on Gen AI game<br>👯 I’m looking to collaborate on startups<br>🌱 I’m currently learning Advance Deep Learning<br>💬 Ask me about Data Science, AI/ML<br>⚡ May the force be with you
 
 📄 **Resume:** [View Resume](./Data_Science_Resume.pdf)
 
