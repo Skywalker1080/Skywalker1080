@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 Currently working on Gen AI game<br>👯 I’m looking to collaborate on startups<br>🤝 I’m looking for help with AI/ML<br>🌱 I’m currently learning BlockChain & Web3<br>💬 Ask me about Anything<br>⚡ May the force be with you
 
+📄 **Resume:** [View Resume](./Data_Science_Resume.pdf)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pranav-darekar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/THE_RAY_KAR) 
