@@ -17,6 +17,8 @@ At CryptoPrism as Freelance Software Developer I shipped plain English investmen
 ## What I do
 
 * Sit with users, find what slows them down, ship a working AI fix in weeks not months
+* Understand business and product problems, strip away complexity and jargon to keep only the fundamental truth, then reason a solution up from there
+* Learn and build with the Feynman technique, simple enough to teach, solid enough to ship
 * Build natural language tools non technical users actually adopt, no SQL needed
 * Ship with evals, caching and monitoring so demos survive real users at peak
 
