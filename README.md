@@ -1,4 +1,6 @@
 # Hi, I'm Pranav Darekar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1f6feb&height=120&section=header" alt="header" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=First+Principles+Engineer;Forward+Deployed+AI+Engineer;Production+AI+Apps+That+Get+Used)](https://git.io/typing-svg)
 
 **A First Principles Engineer specializing in Forward Deployment and Production AI Applications.**
 
@@ -42,6 +44,8 @@ Natural language to Screener agent over 34 tables. Daily brief that explains pri
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,redis,aws,docker,nextjs,supabase,git&theme=dark)](https://skillicons.dev)
+
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-darekar)
@@ -53,6 +57,10 @@ Natural language to Screener agent over 34 tables. Daily brief that explains pri
 ![](https://github-readme-stats.vercel.app/api?username=Skywalker1080&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Skywalker1080&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Skywalker1080&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skywalker1080&theme=react-dark&hide_border=true)](https://github.com/Skywalker1080)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Skywalker1080&theme=dracula&no-frame=true&margin-w=6)](https://github.com/Skywalker1080)
 
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Skywalker1080&limit=5&theme=dark&combine_all_yearly_contributions=true)
