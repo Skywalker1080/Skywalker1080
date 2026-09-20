@@ -1,6 +1,6 @@
 # Hi, I'm Pranav Darekar
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1f6feb&height=120&section=header" alt="header" />
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=First+Principles+Engineer;Forward+Deployed+AI+Engineer;Production+AI+Apps+That+Get+Used)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=First+Principles+Engineer;Forward+Deployed+AI+Engineer;Production+AI+Apps+That+Get+Used)](https://git.io/typing-svg)
 
 **A First Principles Engineer specializing in Forward Deployment and Production AI Applications.**
 
